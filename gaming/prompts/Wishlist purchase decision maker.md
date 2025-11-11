@@ -6,7 +6,7 @@ The prompt instructs an LLM to decide which game to buy from a wishlist that cur
 ## Prompt
 
 ```
-Based on my region and wishlist of Playstation 5 games, use https://psprices.com/region-gb/index to recommend which game I should purchase next. Use the current price to decide and take into consideration any current discount compared to its normal price. Focus on standard editions of games from the Playstation Store. Ensure to explain your workings and include references to sources. 
+Based on my region and wishlist of Playstation 5 games, only use https://psdeals.net/ to recommend which game I should purchase next. Rank by discount vs current price. Focus on standard editions (not complete or deluxe editions) of games from the Playstation Store. Ensure to explain your workings and include references to sources
 
 Region: GB
 
